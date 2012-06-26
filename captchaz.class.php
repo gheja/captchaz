@@ -2,7 +2,7 @@
 	class Captchaz
 	{
 		/*
-		 * Captchaz v0.1 <http://dev.kakaopor.hu/captchaz>
+		 * Captchaz v0.1 <https://github.com/gheja/captchaz>
 		 * Created by Gabor Heja, 2008
 		 *
 		 * This program is free software: you can redistribute it and/or modify
